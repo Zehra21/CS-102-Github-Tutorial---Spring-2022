@@ -1,2 +1,33 @@
 Zehra İyigün - 22002913 - https://github.com/Zehra21
 My favorite video game is Witcher 3 
+
+------------------------------------------------------------------------------------------
+
+commit 5d76e1a3db426be0571cb23f8095e06e44fb757c (HEAD -> main, origin/main, origin/HEAD)
+Merge: 06a4da9 b8e4e40
+Author: Zehra21 <91343907+Zehra21@users.noreply.github.com>
+Date:   Wed Feb 9 16:06:41 2022 +0300
+
+    Merge pull request #1 from Zehra21/new_information
+    
+    favorite video game
+
+commit b8e4e40836e67557155ec1142f852e7f79b0a2c6 (origin/new_information, new_information)
+Author: Zehra İyigün <iyigunzehra@gmail.com>
+Date:   Wed Feb 9 16:04:42 2022 +0300
+
+    favorite video game
+
+commit 06a4da9a7147d150af647feafb68ca324f7be4b4
+Author: Zehra İyigün <iyigunzehra@gmail.com>
+Date:   Wed Feb 9 15:58:55 2022 +0300
+
+    Zehra_İyigün Updated info.txt
+
+commit db3e12eb66d0d773e7600af485c969e655c3656f
+Author: Zehra21 <91343907+Zehra21@users.noreply.github.com>
+Date:   Wed Feb 9 14:52:48 2022 +0300
+
+    Create README.md
+
+-------------------------------------------------------------------------------------------
